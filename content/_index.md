@@ -58,6 +58,7 @@ sections:
       username: admin
 
   - block: resume-languages
+    id: languages
     content:
       title: Languages
       username: admin
