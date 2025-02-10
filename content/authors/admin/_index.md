@@ -51,7 +51,7 @@ education:
   - area: PhD Computer Science
     institution: Illinois Institute of Technology
     date_start: 2023-08-19
-    date_end: 2028-12-31  
+    date_end: 
   - area: BSc Computer Science
     institution: Beijing Jiaotong University
     date_start: 2019-09-01
@@ -201,13 +201,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Bronze medal in 45th ICPC Asia Regional Programming Contest Jinan Site
+  - title: Bronze Medal in 45th ICPC Asia Regional Programming Contest Jinan Site
     url: https://cs.bjtu.edu.cn/jdxw/202301204.htm
     date: '2020-12-28'
     summary: |
       Achieved top performance in one of the world’s most prestigious programming competitions, showcasing problem-solving, algorithmic thinking, and teamwork under time constraints.
 
-  - title: Silver medal in 2020 China Collegiate Programming Contest (CCPC) Mianyang Site
+  - title: Silver Medal in 2020 China Collegiate Programming Contest (CCPC) Mianyang Site
     url: https://citel.bjtu.edu.cn/acm/team
     date: '2020-10-28'
     summary: |
@@ -219,7 +219,7 @@ awards:
     summary: |
       **Top 2/662**. Led a team to win the grand prize in a well-recognized national competition focused on big data analysis and mining. Demonstrated exceptional skills in data analytics, machine learning, and problem-solving by developing an innovative solution to a complex real-life problem. Recognized for outstanding technical proficiency and effective teamwork.
 
-  - title: First Place recipient of the Technology Star Scholarship in School of Computer and Information Technology, BJTU
+  - title: First Place Recipient of the Technology Star Scholarship in School of Computer and Information Technology, BJTU
     date: '2021-11-01'
     summary: |
       The **highest honor** for undergraduate students conducting disciplinary competitions and research innovations.
@@ -228,7 +228,6 @@ awards:
     date: '2020-10-01'
     summary: |
       Awarded first prize for developing a mathematical model to solve a real-world problem in a competitive, time-constrained environment. Demonstrated mathematical modeling skills, creative problem-solving, and teamwork.
-
 ---
 ## Bio
 
