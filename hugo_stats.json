@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "article",
       "aside",
@@ -13,6 +14,7 @@
       "div",
       "em",
       "footer",
+      "g",
       "h1",
       "h2",
       "h3",
@@ -31,6 +33,7 @@
       "link",
       "main",
       "meta",
+      "metadata",
       "nav",
       "ol",
       "p",
