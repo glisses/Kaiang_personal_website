@@ -205,18 +205,21 @@ awards:
     url: https://cs.bjtu.edu.cn/jdxw/202301204.htm
     date: '2020-12-28'
     summary: |
+      [Link](https://cs.bjtu.edu.cn/jdxw/202301204.htm).
       Achieved top performance in one of the world’s most prestigious programming competitions, showcasing problem-solving, algorithmic thinking, and teamwork under time constraints.
 
   - title: Silver Medal in 2020 China Collegiate Programming Contest (CCPC) Mianyang Site
     url: https://citel.bjtu.edu.cn/acm/team
     date: '2020-10-28'
     summary: |
+      [Link](https://citel.bjtu.edu.cn/acm/team).
       Excelled in the well-recognized and highly competitive programming contest requiring teamwork and innovation, demonstrating exceptional algorithmic problem-solving skills.
 
   - title: Grand Prize in 4th Changfeng Cup Big Data Analysis and Mining Competition
     url: http://insis.bjtu.edu.cn/96.html
     date: '2020-12-28'
     summary: |
+      [Link](http://insis.bjtu.edu.cn/96.html).
       **Top 2/662**. Led a team to win the grand prize in a well-recognized national competition focused on big data analysis and mining. Demonstrated exceptional skills in data analytics, machine learning, and problem-solving by developing an innovative solution to a complex real-life problem. Recognized for outstanding technical proficiency and effective teamwork.
 
   - title: First Place Recipient of the Technology Star Scholarship in School of Computer and Information Technology, BJTU
