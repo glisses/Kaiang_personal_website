@@ -2,7 +2,7 @@
 
 [![Screenshot](.github/home.png)](https://hugoblox.com/templates/)
 
-Welcome to my website!
+Welcome to [my website](https://glisses.github.io/Kaiang_personal_website)!
 
 I am a Ph.D. student in Computer Science at Illinois Institute of Technology, working with [Prof. Mark Roman Miller](https://markromanmiller.com/). I received my B.S. in Computer Science from Beijing Jiaotong University in 2023.
 
