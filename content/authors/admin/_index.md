@@ -31,8 +31,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:kwen2@hawk.iit.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/KaiangW
   - icon: brands/github
     url: https://github.com/glisses
   - icon: brands/linkedin
@@ -41,6 +39,8 @@ profiles:
     url: https://scholar.google.com/citations?user=nfkkyKUAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0008-7055-534X
+  - icon: brands/x
+    url: https://twitter.com/KaiangW
 
 interests:
   - Virtual Reality/Augmented Reality

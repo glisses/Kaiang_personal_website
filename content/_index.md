@@ -32,8 +32,10 @@ sections:
           parallax: false
 
   - block: collection
+    # just to hide it temporarily
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Recent Publications
+      title: Research Projects
       text: ""
       filters:
         folders:
@@ -41,6 +43,18 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  - block: collection
+    id: research_projects
+    content:
+      title: Research Projects
+      filters:
+        folders:
+          - research_project
+        exclude_featured: true
+    design:
+      view: article-grid
+      columns: 2
 
   - block: experience
     content:
