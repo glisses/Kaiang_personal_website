@@ -63,6 +63,14 @@
     </item>
     
     <item>
+      <title>VR Motion Tracker</title>
+      <link>http://localhost:1313/research_project/motiontracker/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research_project/motiontracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration</title>
       <link>http://localhost:1313/research_project/mambareg/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
