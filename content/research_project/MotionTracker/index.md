@@ -1,5 +1,5 @@
 ---
-title: 'VR Motion Tracker'
+title: '[GitHub Project] VR Motion Tracker'
 
 summary: 'A VR-based motion tracking system for human motion data collection. The application is built using Unity3D and the UXF framework and has been tested on the Meta Quest 3 headset.' 
 

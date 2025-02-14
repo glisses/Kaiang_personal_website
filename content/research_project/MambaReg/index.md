@@ -1,5 +1,5 @@
 ---
-title: 'MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised
+title: '[Research Paper] MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised
   Deformable Multi-Modal Image Registration'
 
 summary: 'Kaiang Wen, Bin Xie, Bin Duan, Yan Yan. arXiv preprint arXiv:2411.01399.' 

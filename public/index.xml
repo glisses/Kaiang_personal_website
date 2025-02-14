@@ -63,7 +63,15 @@
     </item>
     
     <item>
-      <title>VR Motion Tracker</title>
+      <title>[Research Project] Understanding Cognitive States From Motion</title>
+      <link>http://localhost:1313/research_project/hesitation_motion/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research_project/hesitation_motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[GitHub Project] VR Motion Tracker</title>
       <link>http://localhost:1313/research_project/motiontracker/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research_project/motiontracker/</guid>
@@ -71,7 +79,7 @@
     </item>
     
     <item>
-      <title>MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration</title>
+      <title>[Research Paper] MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration</title>
       <link>http://localhost:1313/research_project/mambareg/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research_project/mambareg/</guid>
@@ -493,7 +501,7 @@ data.head()
     </item>
     
     <item>
-      <title>Knowledge-Guided Gated Multitasking Network for Cervical Spine Degeneration Evaluation</title>
+      <title>[Research Paper] Knowledge-Guided Gated Multitasking Network for Cervical Spine Degeneration Evaluation</title>
       <link>http://localhost:1313/research_project/cervical_spine/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research_project/cervical_spine/</guid>

@@ -1,5 +1,5 @@
 ---
-title: 'Knowledge-Guided Gated Multitasking Network for Cervical Spine Degeneration Evaluation'
+title: '[Research Paper] Knowledge-Guided Gated Multitasking Network for Cervical Spine Degeneration Evaluation'
 
 summary: 'Conducted research on cervical spondylosis measurement using a U-Net-based model for segmentation and MMPose for pose estimation, achieving a 75% reduction in Cobb metric error.' 
 
