@@ -16,10 +16,10 @@ marketing:
     org_name: ""
     # description: "The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website."
     # twitter: "GetResearchDev"
-    description: "Kaiang Wen | PhD Student in AR/VR & Machine Learning | CS PhD @ Illinois Institute of Technology"
+    description: "Kaiang Wen Homepage| PhD Student in AR/VR & Machine Learning | CS PhD @ Illinois Institute of Technology"
     twitter: "KaiangW"
   analytics:
-    google_analytics: ""
+    google_analytics: "G-VNX8TF186T"
     baidu_tongji: ""
     plausible: ""
     fathom: ""
