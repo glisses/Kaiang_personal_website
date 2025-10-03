@@ -58,7 +58,7 @@ education:
     date_end: 2023-06-06
 
 work:
-  - position: Research Assistant
+  - position: Doctoral Researcher
     company_name: SSIL Lab, Illinois Institute of Technology
     company_url: 'www.iit.edu/computing'
     company_logo: ''
@@ -66,9 +66,34 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Designing and implementing VR applications in Unity3D, leveraging spatial computing and advanced motion planning on Oculus Quest to decode user behavior and cognitive states through motion dynamics.
-      - Utilizing cutting-edge machine learning techniques to build intelligent systems that interpret and anticipate subtle cognitive states, advancing seamless human-computer interaction.
-      - Conducting independent research initiatives encompassing participant recruitment, structured data collection, deep learning experimentation, and comprehensive result analysis.
+      - Designed and conducted cognitive user studies with 24 participants using custom-built VR applications in Unity3D using the Meta Quest 3, collecting head/hand motion data to study subtle cognitive states.
+      - Built a reproducible research pipeline covering motion data collection (72 Hz), cross-platform time synchronization, video slicing, annotation alignment, and feature extraction, enabling machine learning analysis.
+      - Engineered and benchmarked classical ML and deep temporal models (SVM, Random Forest, LightGBM, LSTM, ResNet), demonstrating models can approach human-level performance in within-participant inference and highlighting cross-participant generalization as a key open challenge.
+      - First-authored papers presenting the first systematic evidence that VR motion telemetry encodes nuanced cognitive processes like confusion, hesitation, and readiness.
+
+  - position: Research Intern
+    company_name: Megvii Research (Formerly Face++)
+    company_url: 'en.megvii.com'
+    company_logo: ''
+    date_start: 2022-06-23
+    date_end: 2022-10-07
+    summary: |
+      Responsibilities include:
+      - Proposed a self-training framework for 3D scene reconstruction that uses sparse input views and iteratively augments training with high-fidelity synthesized views, reducing NeRF’s reliance on dense view inputs.
+      - Led an independent research project focusing on time-series analysis, applying computer vision and deep learning techniques to extract and predict physiological signals from noisy laser-illuminated video data.
+
+  - position: Visiting Student
+    company_name: VIPL Lab, Chinese Academy of Science
+    company_url: 'vipl.ict.ac.cn/en/index.html'
+    company_logo: ''
+    date_start: 2021-08-01
+    date_end: 2023-03-01
+    summary: |
+      Responsibilities include:
+      - Developed a full medical imaging pipeline using U-Net segmentation and MMPose for skeletal keypoints estimation.
+      - Achieved a 75% (20° → 4.88°) reduction in measurement error through advanced image processing and model optimization, demonstrating expertise in computer vision and machine learning.   
+      - Collaborated in a cross-institutional, interdisciplinary team with clinical experts to guide data annotation and ensure the real-world validity of the model's outputs.
+      - Advisor: Prof. Xinhang Song
 
   - position: Lead Instructor
     company_name: Summer’24 National Coding Bootcamp, TCTM Kids IT Education
@@ -81,32 +106,10 @@ work:
   
 
       Responsibilities include:
-      - Led instruction for two intensive training camps, delivering seven classes to 210+ students aged 9 to 18, featuring an engaging, clear, and accessible teaching style.
-      - Designed and taught a comprehensive curriculum spanning foundational C++ syntax to advanced algorithms and data structures, integrating cutting-edge computer technologies to inspire young students and cultivate their problem-solving skills.
+      - Organized two intensive coding camps for 210+ students (ages 9–18) across 7 classes, delivering an engaging curriculum from foundational C++ to advanced algorithms and data structures, with real-world applications to strengthen students' problem-solving skills.
+      - Enhanced communication and collaboration skills by regularly engaging with students’ parents to provide progress updates, and by working closely with fellow instructors to ensure high-quality, consistent instruction.
 
-  - position: Research Intern
-    company_name: Megvii Research (Formerly Face++)
-    company_url: 'en.megvii.com'
-    company_logo: ''
-    date_start: 2022-06-23
-    date_end: 2022-10-07
-    summary: |
-      Responsibilities include:
-      - Independently led a computer vision project that leveraged laser-illuminated wrist videos to estimate heart rate, integrating traditional digital image processing techniques with deep learning models to improve the accuracy of physiological measurements.
-      - Investigated accelerating Neural Radiance Field (NeRF) training using PyTorch, improving computational efficiency in 3D scene reconstruction.
 
-  - position: Visiting Student
-    company_name: VIPL Lab, Chinese Academy of Science
-    company_url: 'vipl.ict.ac.cn/en/index.html'
-    company_logo: ''
-    date_start: 2021-08-01
-    date_end: 2023-03-01
-    summary: |
-      Responsibilities include:
-      - Researched on cervical spondylosis measurement using a U-Net-based model in PyTorch for segmentation and MMPose for pose estimation. 
-      - Achieved a 75\% reduction in Cobb metric error (from 20° to 4.88°) through advanced image processing and model optimization, demonstrating expertise in computer vision and machine learning. 
-      - Collaborated with clinicians from Peking University Third Hospital to ensure accurate data labeling and validation.
-      - Advisor: Prof. Xinhang Song
 
 
 
